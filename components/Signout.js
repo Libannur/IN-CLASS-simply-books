@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
-import { signOut } from '..//utils/auth';
+import { signOut } from '../utils/auth';
 
 function Signout() {
   return (
